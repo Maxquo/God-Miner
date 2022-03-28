@@ -1,0 +1,6 @@
+name: GodMiner
+version: '1.0-SNAPSHOT'
+main:  maxquo.godminer.GodMiner
+api-version: 1.17
+authors: [ maxquo ]
+description: Even faster than god

@@ -1,0 +1,6 @@
+name: GodMiner
+version: '${project.version}'
+main:  maxquo.godminer.GodMiner
+api-version: 1.17
+authors: [ maxquo ]
+description: Even faster than god
